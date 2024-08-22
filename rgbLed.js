@@ -50,7 +50,7 @@ board.on("ready", function () {
         const brightness = Math.cos(wavePhase) * 50 + 50 // 亮度範圍：0-100
         led.intensity(brightness)
         wavePhase += 0.05
-        // 當走完一個完整的週期就重置 breatheStep，使呼吸效果不間斷
+        // 當走完一個完整的週期就重置 wavePhase，使呼吸效果不間斷
         if (wavePhase > Math.PI * 2) {
           wavePhase = 0
         }
