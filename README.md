@@ -1,6 +1,7 @@
-Learning Arduino w/ Johnny-Five.js
+### Learning Arduino w/ Johnny-Five.js
 
-Demo
+## Demo
 
-- rgbLed
-  ![rgbLed](./demo/rgbLed.gif)
+#### rgbLed
+
+![rgbLed](./demo/rgbLed.gif)
