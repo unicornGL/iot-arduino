@@ -1,0 +1,15 @@
+{
+  "name": "arduino_via_js",
+  "version": "1.0.0",
+  "description": "arduino practice via johnny-five.js",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^2.1.0"
+  }
+}

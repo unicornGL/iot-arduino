@@ -1,0 +1,16 @@
+node_modules/
+npm-debug.log
+yarn-error.log
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+dist/
+build/
+tmp/
+temp/
+*.bak
