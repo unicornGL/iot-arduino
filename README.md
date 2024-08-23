@@ -1,4 +1,4 @@
-### Learning Arduino w/ Johnny-Five.js
+# Learning Arduino w/ Johnny-Five.js
 
 ## Demo
 
