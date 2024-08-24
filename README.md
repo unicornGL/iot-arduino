@@ -6,6 +6,6 @@
 
 ![rgb-led](./rgb-led/rgb-led.gif)
 
-#### sensor-thermometer-hygrometer
+#### thermometer-hygrometer
 
-![sensor-thermometer-hygrometer](./sensor-thermometer-hygrometer/sensor-thermometer-hygrometer.gif)
+![thermometer-hygrometer](./thermometer-hygrometer/thermometer-hygrometer.gif)
