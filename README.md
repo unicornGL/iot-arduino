@@ -2,6 +2,6 @@
 
 ## Demo
 
-#### rgbLed
+#### rgb-led
 
-![rgbLed](./demo/rgbLed.gif)
+![rgb-led](./rgb-led/rgb-led.gif)
