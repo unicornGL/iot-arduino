@@ -6,6 +6,6 @@
 
 ![rgb-led](./rgb-led/rgb-led.gif)
 
-#### thermometer-hygrometer
+#### thermometer-and-hygrometer
 
-![thermometer-hygrometer](./thermometer-hygrometer/thermometer-hygrometer.gif)
+![thermometer-and-hygrometer](./thermometer-and-hygrometer/thermometer-and-hygrometer.gif)
