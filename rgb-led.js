@@ -1,11 +1,11 @@
 /**
- * 器材準備：Arduino UNO、RGB LED、杜邦線
+ * 器材準備：Arduino UNO、RGB LED、公對公杜邦線
  * 實現效果：隨機顏色、呼吸效果
  *
  * RGB LED 若共腳為 VCC 為共陽極版本、為 GND 則為共陰極版本
  * Led.RGB.isAnode 預設 false（共陰極），若為共陽極則要設為 true
  *
- * ref: https://johnny-five.io/api/led.rgb/
+ * Ref: Led.RGB: https://johnny-five.io/api/led.rgb/
  *  */
 
 import five from "johnny-five"
@@ -27,11 +27,6 @@ board.on("ready", function () {
   }
 
   this.repl.inject({
-    pick() {
-      stopCurrentEffect()
-      currentColor = getRandomHexValue()
-      led.color(currentColor)
-    },
     random() {
       stopCurrentEffect()
       currentInterval = setInterval(() => {
