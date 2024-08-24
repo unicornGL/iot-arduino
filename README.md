@@ -5,3 +5,7 @@
 #### rgb-led
 
 ![rgb-led](./rgb-led/rgb-led.gif)
+
+#### sensor-thermometer-hygrometer
+
+![sensor-thermometer-hygrometer](./sensor-thermometer-hygrometer/sensor-thermometer-hygrometer.gif)
